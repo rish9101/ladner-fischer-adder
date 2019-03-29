@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ladner_fischer_adder.srcs/sources_1/new/PG.v" \
+"../../../../ladner_fischer_adder.srcs/sources_1/new/eight_bits_adder.v" \
+"../../../../ladner_fischer_adder.srcs/sources_1/new/four_bits_adder.v" \
+"../../../../ladner_fischer_adder.srcs/sources_1/new/p_g.v" \
+"../../../../ladner_fischer_adder.srcs/sources_1/new/two_bits_adder.v" \
+"../../../../ladner_fischer_adder.srcs/sim_1/new/sim3.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,15 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/sim1.v,1553843508,verilog,,,,sim1,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/sim2.v,1553437203,verilog,,,,sim2,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/sim3.v,1553438684,verilog,,,,sim3,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/sim4.v,1553846044,verilog,,,,sim4,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/PG.v,1553843841,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/eight_bits_adder.v,,PG,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/eight_bits_adder.v,1553438438,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/four_bits_adder.v,,eight_bits_adder,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/four_bits_adder.v,1553846110,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/p_g.v,,four_bits_adder,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/p_g.v,1553844637,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/sixt_bits_adder.v,,p_g,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/sixt_bits_adder.v,1553438970,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/two_bits_adder.v,,sixt_bits_adder,,,,,,,,
+F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/two_bits_adder.v,1553845886,verilog,,F:/hdl project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/sim4.v,,two_bits_adder,,,,,,,,
