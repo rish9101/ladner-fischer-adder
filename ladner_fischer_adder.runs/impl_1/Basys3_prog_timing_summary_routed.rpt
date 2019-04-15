@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date         : Thu Apr 11 15:48:23 2019
+| Date         : Mon Apr 15 12:00:54 2019
 | Host         : DESKTOP-MMSHUVK running 64-bit major release  (build 9200)
 | Command      : report_timing_summary -max_paths 10 -file Basys3_prog_timing_summary_routed.rpt -pb Basys3_prog_timing_summary_routed.pb -rpx Basys3_prog_timing_summary_routed.rpx -warn_on_violation
 | Design       : Basys3_prog
@@ -52,7 +52,7 @@ Table of Contents
 
 1. checking no_clock
 --------------------
- There are 9 register/latch pins with no clock driven by root clock pin: clock (HIGH)
+ There are 17 register/latch pins with no clock driven by root clock pin: clock (HIGH)
 
 
 2. checking constant_clock
@@ -67,7 +67,7 @@ Table of Contents
 
 4. checking unconstrained_internal_endpoints
 --------------------------------------------
- There are 11 pins that are not constrained for maximum delay. (HIGH)
+ There are 34 pins that are not constrained for maximum delay. (HIGH)
 
  There are 0 pins that are not constrained for maximum delay due to constant clock.
 
@@ -81,7 +81,7 @@ Table of Contents
 
 6. checking no_output_delay
 ---------------------------
- There are 9 ports with no output delay specified. (HIGH)
+ There are 11 ports with no output delay specified. (HIGH)
 
  There are 0 ports with no output delay but user has a false path constraint
 

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/PG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/eight_bits_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module eight_bits_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/four_bits_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_bits_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/fpga.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Basys3_prog
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/p_g.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module p_g
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sources_1/new/two_bits_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module two_bits_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP_OWNER/Desktop/project/ladner_fischer_adder/ladner_fischer_adder.srcs/sim_1/new/prog_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prog_sim
